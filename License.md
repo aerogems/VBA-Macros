@@ -1,0 +1,1 @@
+Permission is granted for anyone to view and execute the macros contained with the files of this repository for evaluation purposes only. Permission to modify, sample, copy, use, and/or distribute any of the code contained within for any other purpose is forbidden without express written authorization from the repository owner.
